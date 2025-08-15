@@ -6,6 +6,7 @@ export default function App () {
     <div>
       <Home/>
       <h1>shardz</h1>
+      <h2>Makrampure</h2>
     </div>
   )
 }
